@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "game-21c8",
+  "productName": "21c8",
   "version": "0.1.0",
   "identifier": "com.t6970.game-21c8",
   "build": {
@@ -10,7 +10,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "game-21c8",
+        "title": "21c8",
         "width": 800,
         "height": 600
       }
