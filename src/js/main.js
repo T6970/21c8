@@ -1,2 +1,2 @@
-const screen = document.querySelector("screen")
+const screen = document.getElementById("screen").getContext("2d")
 
