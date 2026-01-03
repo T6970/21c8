@@ -1,7 +1,6 @@
-# Tauri + Vanilla
+# 21c8
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+This is an indie game where the player can only move knightwise (i.e. move like chess knight).
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+The player inherits the ability of knight, which means that it can jump through one-thick walls.
+However, the player can't go through one-thick corridors, which is very rare in chess.
